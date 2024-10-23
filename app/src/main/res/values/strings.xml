@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="hello">Hello World</string>
+    <string name="language_changed" />
+    <string name="gender" />
+    <string name="name" />
+    <string name="age" />
+</resources>
